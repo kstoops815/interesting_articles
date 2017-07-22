@@ -1,0 +1,68 @@
+.heading {
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 50px;
+}
+article {
+	margin-bottom: 20px;
+}
+
+article h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.article_1 {
+	background-color: lightblue;
+	font-family: 'Questrial', sans-serif;
+	font-size: 16px;
+	color: navy;
+	border: 5px dotted orange;
+	border-radius: 10px;
+	line-height: 120%;
+	padding: 10px 20px;
+}
+
+.article_2 {
+	background-color: pink;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 20px;
+	color: darkgreen;
+	border: 10px solid hotpink;
+	border-radius: 20%;
+	line-height: 80%;
+	padding: 30px;
+}
+
+.article_3 {
+	background-color: lightgreen;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 1.825em;
+	color: white;
+	border: 15px dashed darkgreen;
+	border-radius: 50%;
+	line-height: 120%;
+	padding: 5% 15%;
+}
+
+.article_4 {
+	background-color: darkgrey;
+	font-family: 'Lobster two', cursive;
+	font-size: 40px;
+	color: aqua;
+	border: 5px double coral;
+	border-radius: 25px;
+	line-height: 90%;
+	padding: 10px 20px;
+}
+
+.article_5 {
+	background-color: turquoise;
+	font-family: 'Fresca', sans-serif;
+	font-size: 12px;
+	color: tomato;
+	border: 5px dotted plum;
+	border-radius: 40%;
+	line-height: 200%;
+	padding: 5%;
+}
