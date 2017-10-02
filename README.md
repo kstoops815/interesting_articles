@@ -36,5 +36,7 @@ Link your new CSS file to your already existing index.html file. For each articl
 # Screen Shots of the Final Product
 
 ![interesting articles screenshot no. 1](./images/Interesting-articles-1.PNG)
+
 ![interesting articles screenshot no. 2](./images/Interesting-articles-2.PNG)
+
 ![interesting articles screenshot no. 3](./images/Interesting-articles-3.PNG)
